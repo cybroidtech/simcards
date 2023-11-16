@@ -1,0 +1,6 @@
+package com.cybroid.simcards_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
